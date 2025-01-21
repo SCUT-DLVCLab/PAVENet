@@ -1,8 +1,8 @@
 # <div align="center">:shield:PAVENet
 
 <div align="center">
-  <a href="http://dlvc-lab.net/lianwen/"> <img alt="SCUT DLVC Lab" src="https://img.shields.io/badge/SCUT-DLVC_Lab-A85882?logo=Academia&logoColor=hsl"></a>
-  <a href="https://ieeexplore.ieee.org/document/10746457"> <img alt="Static Badge" src="https://img.shields.io/badge/IEEE_TIFS-DOLPHIN-%23327FE6?logo=IEEE&logoColor=rgb&labelColor=58B822"></a>
+  <a href="http://dlvc-lab.net/lianwen/"> <img alt="SCUT DLVC Lab" src="https://img.shields.io/badge/SCUT-DLVC_Lab-%23327FE6?logo=Academia&logoColor=hsl"></a>
+  <a href="https://ieeexplore.ieee.org/document/10840296"> <img alt="Static Badge" src="https://img.shields.io/badge/IEEE_TPAMI-PAVENet-A85882?logo=IEEE&logoColor=rgb&labelColor=1DA337"></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/arXiv-gray?logo=arXiv&logoColor=rgb&labelColor=%23CE0000"></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/Pytorch%201.12-orange?logo=pytorch&logoColor=rgb">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python%203.8-lightgray?logo=python&logoColor=rgb">
@@ -95,7 +95,7 @@ pip install -r requirements.txt
 
 ## <div align="center">:hammer_and_pick:Data Preparation</div>
 
-Download the HRDS4BV dataset and unzip it using the following commands:
+Download the HRDS4BV dataset and unzip it using the following commands (`7z` is recommended for the unzipping; please ensure that `7z` is installed and available):
 
 ```bash
 mkdir data
@@ -145,5 +145,5 @@ Peirong Zhang: eeprzhang@mail.scut.edu.cn
 
 ## <div align="center">:palm_tree:Copyright</div>
 
-Copyright 2025, Deep Learning and Vision Computing (DLVC) Lab, South China China University of Technology. [http://www.dlvc-lab.net](http://www.dlvc-lab.net/).
+Copyright 2025, Deep Learning and Vision Computing (DLVC) Lab, South China China University of Technology.
 
