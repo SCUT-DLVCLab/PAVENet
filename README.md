@@ -8,7 +8,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Python%203.8-lightgray?logo=python&logoColor=rgb">
 <p></p>
 
-<a href=""> <b>Privacy-Preserving Biometric Verification with
+<a href="https://ieeexplore.ieee.org/document/10840296"> <b>Privacy-Preserving Biometric Verification with
 Handwritten Random Digit String</b> </a>
 
 <b>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025</b>
