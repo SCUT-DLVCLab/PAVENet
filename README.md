@@ -2,8 +2,9 @@
 
 <div align="center">
   <a href="http://dlvc-lab.net/lianwen/"> <img alt="SCUT DLVC Lab" src="https://img.shields.io/badge/SCUT-DLVC_Lab-%23327FE6?logo=Academia&logoColor=hsl"></a>
-  <a href="https://ieeexplore.ieee.org/document/10840296"> <img alt="Static Badge" src="https://img.shields.io/badge/IEEE_TPAMI-PAVENet-A85882?logo=IEEE&logoColor=rgb&labelColor=1DA337"></a>
+  <a href="https://ieeexplore.ieee.org/document/10840296"> <img alt="Static Badge" src="https://img.shields.io/badge/IEEE_TPAMI-PAVENet-B32952?logo=IEEE&logoColor=rgb&labelColor=1DA337"></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/arXiv-gray?logo=arXiv&logoColor=rgb&labelColor=%23CE0000"></a>
+  <a href="./LICENSE"> <img alt="Static Badge" src="https://img.shields.io/badge/License-GPLv3-FFBF00?logo=GNUBash&logoColor=rgb&labelColor=006622"></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/Pytorch%201.12-orange?logo=pytorch&logoColor=rgb">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python%203.8-lightgray?logo=python&logoColor=rgb">
 <p></p>
