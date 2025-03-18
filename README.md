@@ -3,11 +3,11 @@
 <div align="center">
   <a href="http://dlvc-lab.net/lianwen/"> <img alt="SCUT DLVC Lab" src="https://img.shields.io/badge/SCUT-DLVC_Lab-%23327FE6?logo=Academia&logoColor=hsl"></a>
   <a href="https://ieeexplore.ieee.org/document/10840296"> <img alt="Static Badge" src="https://img.shields.io/badge/IEEE_TPAMI-PAVENet-B32952?logo=IEEE&logoColor=rgb&labelColor=1DA337"></a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/arXiv-gray?logo=arXiv&logoColor=rgb&labelColor=%23CE0000"></a>
+  <a href="https://arxiv.org/abs/2503.12786"> <img alt="Static Badge" src="https://img.shields.io/badge/arXiv-2502.14005-%23CE0000?logo=arXiv&logoColor=rgb&labelColor=gray"></a>
   <a href="./LICENSE"> <img alt="Static Badge" src="https://img.shields.io/badge/License-GPLv3-FFBF00?logo=GNUBash&logoColor=rgb&labelColor=006622"></a>
 <p></p>
 
-<a href="https://ieeexplore.ieee.org/document/10840296"> <b>Privacy-Preserving Biometric Verification with
+<a href="https://arxiv.org/abs/2503.12786"> <b>Privacy-Preserving Biometric Verification with
 Handwritten Random Digit String</b> </a>
 
 <b>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025</b>
@@ -35,7 +35,7 @@ HRDS4BV dataset is a handwriting verification benchmark dataset that contains 16
 | ------------------- | ------ | :------: | ------- | ---- | --------------------------- | --------------------------- | ----------- |
 | Random Digit String | 7~11   |  Online  | 2       | 402  | $402\times(10 + 10) = 8040$ | $402\times(10 + 10) = 8040$ | $X,Y,P,T,U$ |
 
-$X,Y,P,T,U$ respectively denote the $x$ coordinates, y$ coordinates, pressure, timestamps, and the pen-up/pen-down information. The pen-down/pen-up information is represented by 0~3. 0 indicates that this is not a pen-up/pen-down point. 1 indicates that this is a pen-down point. 2 indicates that this is a pen-up point. 3 indicates that this point is both a pen-up and pen-down point, which is isolated.
+$X,Y,P,T,U$ respectively denote the $x$ coordinates, $y$ coordinates, pressure, timestamps, and the pen-up/pen-down information. The pen-down/pen-up information is represented by 0~3. 0 indicates that this is not a pen-up/pen-down point. 1 indicates that this is a pen-down point. 2 indicates that this is a pen-up point. 3 indicates that this point is both a pen-up and pen-down point, which is isolated.
 
 ### Dataset Accessibility
 
@@ -130,12 +130,12 @@ python test.py --weights weights/model.pth
 ```bibtex
 @ARTICLE{pavenet2025zhang,
   author={Zhang, Peirong and Liu, Yuliang and Lai, Songxuan and Li, Hongliang and Jin, Lianwen},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}, 
-  title={{Privacy-Preserving Biometric Verification With Handwritten Random Digit String}}, 
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Privacy-Preserving Biometric Verification With Handwritten Random Digit String}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-18},
+  volume={47},
+  number={4},
+  pages={3049-3066}
 }
 ```
 
