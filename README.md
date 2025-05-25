@@ -130,8 +130,8 @@ python test.py --weights weights/model.pth
 ```bibtex
 @ARTICLE{pavenet2025zhang,
   author={Zhang, Peirong and Liu, Yuliang and Lai, Songxuan and Li, Hongliang and Jin, Lianwen},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Privacy-Preserving Biometric Verification With Handwritten Random Digit String}, 
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}, 
+  title={{Privacy-Preserving Biometric Verification With Handwritten Random Digit String}}, 
   year={2025},
   volume={47},
   number={4},
