@@ -40,11 +40,26 @@ $X,Y,P,T,U$ respectively denote the $x$ coordinates, $y$ coordinates, pressure, 
 
 ### Dataset Accessibility
 
-You can access the dataset following the instructions:
+The HRDS4BV dataset is available for **non-commercial research purposes only**. To request access, please follow these steps:
 
-- The HRDS4BV dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the HRDS4BV dataset, please first fill in this [Application Form](./application-form/Application-Form-for-Using-MSDS.docx) and sign the [Legal Commitment](./application-form/Legal-Commitment.docx) and email them to us. When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of handwriting verification, handwriting analysis and recognition, document image processing, and so on. 
-- We will give you the download link and the decompression password after your application has been received and approved.
-- All users must follow all use conditions; otherwise, the authorization will be revoked.
+**Step 1: Download and complete both agreement documents:**
+
+- [Application Form for Using MSDS](./application-form/Application-Form-for-Using-MSDS.docx)
+- [Legal Commitment](./application-form/Legal-Commitment.docx)
+
+Have both documents signed and stamped by your institution. Please also prepare 1–2 recent publications (within the last 6 years) as evidence that you or your team conduct research in handwriting verification, handwriting analysis and recognition, document image processing, or related fields.
+
+**Step 2: Submit your application online:**
+
+> 🔗 **[SCUT DLVC Lab Dataset Access Portal → Apply for HRDS4BV](http://121.41.49.212:9000/apply/hrds4bv)**
+
+Upload both signed documents through the portal and fill out the "Recent Publications" block. Your application will be reviewed manually and you will be notified by email once a decision has been made (typically within 1–5 business days).
+
+**Step 3: Download the dataset:**
+
+After approval, you will receive the download link and decompression password via email.
+
+> ⚠️ All users must comply with the use conditions at all times; failure to do so will result in revocation of access.
 
 ### Data Format
 
